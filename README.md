@@ -1,2 +1,3 @@
 # calculatorBot
-just calculator
+
+ Hello! It's a simple calculator bot
